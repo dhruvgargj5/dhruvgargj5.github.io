@@ -4,7 +4,7 @@ layout: default
 
 # Education
 I am currently pursuing an M.S. in Robotics at the University of Michigan.
-![UM](/assets/img/um-robotics.jpg)
+![UM](/assets/img/um-logo.svg)
 
 # Projects
 
