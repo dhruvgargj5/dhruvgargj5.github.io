@@ -2,19 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Education
+I am currently pursuing an M.S. in Robotics at the University of Michigan.
+![UM](/assets/img/um-robotics.jpg)
 
-[Link to another page](./another-page.html).
+# Projects
 
-There should be whitespace between paragraphs.
+These are some projects I have worked on.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## A cool one
 
-# Header 1
+## An interesting one
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## A weird one
 
-## Header 2
 
 > This is a blockquote following a header.
 >

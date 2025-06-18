@@ -1,3 +1,9 @@
 title: Dhruv Garg 
 logo: /assets/img/me.jpeg
 theme: jekyll-theme-minimal
+
+description:
+  <p align="justify"> Robotics at Michigan <br /><br />
+  </p>
+
+show_downloads: False
